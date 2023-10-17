@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">After visiting a supposidly haunted house, the Hardy boys go on an adventure to see if the house is hauntd or if there is trouble afoot.</dc:description>
+		<dc:description id="description">After visiting a supposidly haunted house, the Hardy boys go on an adventure to see if the house is haunted or if there is trouble afoot.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;On holiday with friends, the Hardy boys check out the local haunted house. Detered by screams and the dilapitated house, the group turn towards home. However, a nearly-fatal moter boat chase in the nearby bay causes the Hardy boys to wonder: is the house really haunted, or is there foul play afoot?&lt;/p&gt;
 			&lt;p&gt;This is the second book of the Hardy boys series, first published in 1927. Although updated and rewritten in 1959, this Standard Ebook contains the original text.&lt;/p&gt;
@@ -52,7 +52,6 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69988</dc:source>
 		<dc:source>https://archive.org/details/the-house-on-the-cliff_202301</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">41702</meta>
 		<meta property="se:reading-ease.flesch">83.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_on_the_Cliff</meta>
@@ -60,7 +59,7 @@
 		<dc:creator id="author">Franklin W. Dixon</dc:creator>
 		<meta property="file-as" refines="#author">Dixon, Franklin W.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Franklin_W._Dixon</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80125961</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80125961</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Walter S. Rogers</dc:contributor>
 		<meta property="se:name.person.full-name" refines="#artist">Walter Stanton Rogers</meta>
