@@ -44,9 +44,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">After visiting a supposidly haunted house, the Hardy boys go on an adventure to see if the house is haunted or if there is trouble afoot.</dc:description>
+		<dc:description id="description">After visiting a suspected haunted house, two brothers and their friends embark on an adventure to see if the house is really haunted or if there is trouble afoot.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;On holiday with friends, the Hardy boys check out the local haunted house. Detered by screams and the dilapitated house, the group turn towards home. However, a nearly-fatal moter boat chase in the nearby bay causes the Hardy boys to wonder: is the house really haunted, or is there foul play afoot?&lt;/p&gt;
+			&lt;p&gt;On holiday with friends, the Hardy boys check out the local haunted house. Deterred by screams and the dilapidated house, the group turn towards home. However, a nearly-fatal motor boat chase in the nearby bay causes the Hardy boys to wonder: is the house really haunted, or is there foul play afoot?&lt;/p&gt;
 			&lt;p&gt;This is the second book of the Hardy boys series, first published in 1927. Although updated and rewritten in 1959, this Standard Ebook contains the original text.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
