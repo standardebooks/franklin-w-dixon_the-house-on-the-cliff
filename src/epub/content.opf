@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69988</dc:source>
 		<dc:source>https://archive.org/details/the-house-on-the-cliff_202301</dc:source>
-		<meta property="se:word-count">41683</meta>
+		<meta property="se:word-count">40687</meta>
 		<meta property="se:reading-ease.flesch">84.07</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_on_the_Cliff</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/franklin-w-dixon_the-house-on-the-cliff</meta>
