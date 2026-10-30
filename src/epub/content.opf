@@ -66,8 +66,8 @@
 		<link href="https://id.loc.gov/authorities/names/n80125961.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Walter S. Rogers</dc:contributor>
-		<meta property="schema:alternateName" refines="#artist">Walter Stanton Rogers</meta>
 		<meta property="file-as" refines="#artist">Rogers, Walter S.</meta>
+		<meta property="schema:alternateName" refines="#artist">Walter Stanton Rogers</meta>
 		<link href="https://en.wikipedia.org/wiki/Walter_S._Rogers" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no2011171107.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
